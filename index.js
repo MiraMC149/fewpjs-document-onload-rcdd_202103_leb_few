@@ -2,8 +2,9 @@
 
 document.addEventListener("DOMContentLoaded", function() {
 console.log("The DOM has loaded");
-});
 myScript();
+});
+
 function myScript(){
   let text = document.getElementById("text");
   text.innerHTML.replace ("This is really cool!");
