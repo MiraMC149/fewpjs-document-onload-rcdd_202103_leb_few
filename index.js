@@ -6,4 +6,3 @@ document.addEventListener("DOMContentLoaded", event() {
 function event(){
   text.innerHTML.replace ("This is really cool!");
 }
-
